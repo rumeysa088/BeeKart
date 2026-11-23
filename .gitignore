@@ -1,0 +1,19 @@
+# Compiled output
+build/
+*.o
+*.d
+*.exe
+smartmart
+
+# Data created while the program runs (it re-seeds itself if these are missing)
+data/*.dat
+receipts/
+shopping_lists/
+kaggle/
+
+# Dev-C++ / editor / OS files
+*.layout
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
