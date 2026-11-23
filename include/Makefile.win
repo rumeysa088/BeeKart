@@ -1,0 +1,55 @@
+# Project: SmartMart2
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = ../src/main.o ../src/Analytics.o ../src/Cart.o ../src/CsvImporter.o ../src/FileManager.o ../src/Inventory.o ../src/Management.o ../src/RecipeEngine.o ../src/ShoppingAssistant.o ../src/StoreLocator.o
+LINKOBJ  = ../src/main.o ../src/Analytics.o ../src/Cart.o ../src/CsvImporter.o ../src/FileManager.o ../src/Inventory.o ../src/Management.o ../src/RecipeEngine.o ../src/ShoppingAssistant.o ../src/StoreLocator.o
+LIBS     = -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib" -L"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib"
+INCS     = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+BIN      = SmartMart2.exe
+CXXFLAGS = $(CXXINCS) -std=c++11
+CFLAGS   = $(INCS) -std=c++11
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+../src/main.o: ../src/main.cpp
+	$(CPP) -c ../src/main.cpp -o ../src/main.o $(CXXFLAGS)
+
+../src/Analytics.o: ../src/Analytics.cpp
+	$(CPP) -c ../src/Analytics.cpp -o ../src/Analytics.o $(CXXFLAGS)
+
+../src/Cart.o: ../src/Cart.cpp
+	$(CPP) -c ../src/Cart.cpp -o ../src/Cart.o $(CXXFLAGS)
+
+../src/CsvImporter.o: ../src/CsvImporter.cpp
+	$(CPP) -c ../src/CsvImporter.cpp -o ../src/CsvImporter.o $(CXXFLAGS)
+
+../src/FileManager.o: ../src/FileManager.cpp
+	$(CPP) -c ../src/FileManager.cpp -o ../src/FileManager.o $(CXXFLAGS)
+
+../src/Inventory.o: ../src/Inventory.cpp
+	$(CPP) -c ../src/Inventory.cpp -o ../src/Inventory.o $(CXXFLAGS)
+
+../src/Management.o: ../src/Management.cpp
+	$(CPP) -c ../src/Management.cpp -o ../src/Management.o $(CXXFLAGS)
+
+../src/RecipeEngine.o: ../src/RecipeEngine.cpp
+	$(CPP) -c ../src/RecipeEngine.cpp -o ../src/RecipeEngine.o $(CXXFLAGS)
+
+../src/ShoppingAssistant.o: ../src/ShoppingAssistant.cpp
+	$(CPP) -c ../src/ShoppingAssistant.cpp -o ../src/ShoppingAssistant.o $(CXXFLAGS)
+
+../src/StoreLocator.o: ../src/StoreLocator.cpp
+	$(CPP) -c ../src/StoreLocator.cpp -o ../src/StoreLocator.o $(CXXFLAGS)

@@ -1,0 +1,16 @@
+1|Chicken Biryani|60|Dinner|Cook rice. Fry onions. Add chicken + spices. Layer and steam.|Chicken,Rice,Onion,Tomato,Yogurt,Spices
+2|Chicken Karahi|40|Dinner|Fry chicken with tomato, ginger, garlic. Add yogurt. Simmer.|Chicken,Tomato,Yogurt,Ginger,Garlic,Spices
+3|Chicken Pulao|50|Dinner|Fry onion. Add chicken + rice + spices. Cook.|Chicken,Rice,Onion,Spices
+4|Beef Curry|75|Dinner|Brown beef. Add onion + tomato + spices. Simmer 1 hour.|Beef,Onion,Tomato,Yogurt,Spices
+5|Fish Fry|25|Dinner|Marinate fish. Coat in flour. Fry until golden.|Fish,Spices,Wheat Flour
+6|Raita|5|Side|Mix yogurt with chopped onion and tomato.|Yogurt,Onion,Tomato
+7|Omelette|10|Breakfast|Beat eggs. Add onion + tomato. Fry in butter.|Eggs,Onion,Tomato,Butter
+8|Garlic Bread|10|Snack|Mix butter + garlic. Spread on bread. Toast.|Bread,Butter,Garlic
+9|Vegetable Salad|10|Side|Chop everything. Mix. Add lemon + salt.|Tomato,Onion,Capsicum,Carrot
+10|Pasta Alfredo|25|Dinner|Boil pasta. Make cream sauce. Mix.|Pasta,Cream,Cheese,Garlic
+11|Fruit Salad|10|Snack|Chop all fruits. Mix. Chill.|Apple,Banana,Orange,Grapes
+12|Mango Shake|5|Beverage|Blend mango + milk + sugar.|Mango,Milk,Sugar
+13|Chickpea Curry|35|Dinner|Fry onion. Add tomato + spices. Add chickpeas. Simmer.|Chickpeas,Onion,Tomato,Spices
+14|Lentil Soup|30|Dinner|Boil lentils. Fry onion + garlic. Mix. Simmer.|Lentils,Onion,Garlic,Spices
+15|Chicken Sandwich|15|Lunch|Grill chicken. Mix with yogurt. Put on bread.|Bread,Chicken,Yogurt,Capsicum
+16|Potato Curry|30|Dinner|Fry onion. Add tomato + spices. Add potatoes. Cook.|Potato,Onion,Tomato,Spices

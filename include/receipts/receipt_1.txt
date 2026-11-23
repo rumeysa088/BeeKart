@@ -1,0 +1,12 @@
+===== SMARTMART RECEIPT =====
+Sale ID: 1
+Date: 2026-11-06 16:17
+Customer: walk-in
+Payment: cash
+-----------------------------
+Milk x2 = PKR 420
+Bread x1 = PKR 120
+-----------------------------
+Subtotal: PKR 540
+Tax:      PKR 27
+TOTAL:    PKR 567

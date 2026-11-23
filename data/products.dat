@@ -1,0 +1,53 @@
+53|Detergent|Household|600|20||6|0|HomeCare
+52|Shampoo|Household|450|15||5|0|HomeCare
+51|Soap|Household|150|30||8|0|HomeCare
+50|Biscuits|Snacks|90|60|2027-03-01|15|0|SnackCo
+49|Chocolate|Snacks|250|30|2027-05-01|8|0|SnackCo
+48|Chips|Snacks|80|50|2027-01-01|15|0|SnackCo
+47|Noodles|Snacks|120|40|2027-04-01|10|0|SnackCo
+22|Milk|Dairy|210|45|2026-10-05|10|0|DairyFresh
+21|Yogurt|Dairy|120|20|2026-10-03|5|0|DairyFresh
+20|Capsicum|Vegetables|150|20|2026-10-10|5|0|VeggiesLtd
+19|Cabbage|Vegetables|70|25|2026-10-14|6|0|VeggiesLtd
+18|Cauliflower|Vegetables|120|20|2026-10-12|5|0|VeggiesLtd
+17|Spinach|Vegetables|40|40|2026-10-02|8|0|VeggiesLtd
+16|Carrot|Vegetables|70|30|2026-10-15|8|0|VeggiesLtd
+15|Ginger|Vegetables|90|20|2026-10-18|5|0|VeggiesLtd
+14|Garlic|Vegetables|60|25|2026-10-18|5|0|VeggiesLtd
+13|Potato|Vegetables|60|60|2026-10-25|10|0|VeggiesLtd
+12|Tomato|Vegetables|80|30|2026-10-04|8|0|VeggiesLtd
+11|Onion|Vegetables|100|50|2026-10-20|10|0|VeggiesLtd
+4|Fish|Seafood|500|12|2026-10-05|4|0|SeaFresh
+3|Mutton|Meat|1200|10|2026-10-09|3|0|FreshFarms
+2|Beef|Meat|650|15|2026-10-08|5|0|FreshFarms
+1|Chicken|Meat|350|20|2026-10-10|5|0|FreshFarms
+5|Prawns|Seafood|900|8|2026-10-04|3|0|SeaFresh
+6|Rice|Grains|250|40||10|0|GrainCo
+7|Wheat Flour|Grains|1100|25||5|0|GrainCo
+8|Basmati Rice|Grains|380|30||8|0|GrainCo
+9|Lentils|Grains|220|35||10|0|GrainCo
+10|Chickpeas|Grains|180|40||10|0|GrainCo
+23|Eggs|Dairy|280|30|2026-10-12|10|0|DairyFresh
+24|Butter|Dairy|380|12|2026-11-01|5|0|DairyFresh
+25|Cheese|Dairy|450|15|2026-11-20|5|0|DairyFresh
+26|Cream|Dairy|220|10|2026-10-20|4|0|DairyFresh
+27|Bread|Bakery|120|10|2026-10-02|10|0|BakeryPlus
+28|Bun|Bakery|30|40|2026-10-03|15|0|BakeryPlus
+29|Cake|Bakery|800|5|2026-10-06|3|0|BakeryPlus
+30|Cookies|Bakery|150|25|2026-11-15|8|0|BakeryPlus
+31|Spices|Condiments|150|50||10|0|SpiceWorld
+32|Salt|Condiments|40|60||15|0|SpiceWorld
+33|Sugar|Condiments|180|40||10|0|SpiceWorld
+34|Tea|Beverages|950|20|2027-06-01|5|0|BevCo
+35|Coffee|Beverages|1200|15|2027-08-01|5|0|BevCo
+36|Juice|Beverages|180|30|2026-11-10|8|0|BevCo
+37|Soft Drink|Beverages|120|60|2027-01-15|15|0|BevCo
+38|Water Bottle|Beverages|60|100|2027-06-01|20|0|BevCo
+39|Apple|Fruits|320|30|2026-10-08|8|0|FruitMart
+40|Banana|Fruits|180|40|2026-10-04|10|0|FruitMart
+41|Mango|Fruits|400|25|2026-10-05|6|0|FruitMart
+42|Orange|Fruits|260|35|2026-10-10|8|0|FruitMart
+43|Grapes|Fruits|380|20|2026-10-06|5|0|FruitMart
+44|Strawberry|Fruits|500|15|2026-10-03|4|0|FruitMart
+45|Watermelon|Fruits|250|10|2026-10-07|3|0|FruitMart
+46|Pasta|Snacks|280|25|2027-04-01|8|0|SnackCo
